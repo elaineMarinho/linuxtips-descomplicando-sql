@@ -6,11 +6,3 @@ SELECT 'Olá mundo'
 
 
 SELECT 1+10*2
-
--- COMMAND ----------
-
-
-
--- COMMAND ----------
-
-
